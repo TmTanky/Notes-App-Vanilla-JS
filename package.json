@@ -1,0 +1,20 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TmTanky/Notes-App-Vanilla-JS.git"
+  },
+  "author": "TmTanky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TmTanky/Notes-App-Vanilla-JS/issues"
+  },
+  "homepage": "https://github.com/TmTanky/Notes-App-Vanilla-JS#readme",
+  "type": "module"
+}
